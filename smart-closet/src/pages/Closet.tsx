@@ -8,6 +8,7 @@ import ClosetGrid from "../components/ClosetGrid";
 import ErrorMessage from "../components/ErrorMessage";
 import LoadingSpinner from "../components/LoadingSpinner";
 import UserCard from "../components/UserCard";
+import LogoutButton from "../components/LogoutButton";
 
 const Closet: React.FC = () => {
   const { user } = useAuth0();
@@ -91,6 +92,9 @@ const Closet: React.FC = () => {
           }}
         >
           <UserCard />
+          <Box sx{{ mt: 3, display: 'flex', justifyContent: 'center' }}>
+            <LogoutButton />
+          </Box>
         </Paper>
 
         <Paper 
