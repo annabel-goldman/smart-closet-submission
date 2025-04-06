@@ -22,5 +22,5 @@ REACT_APP_AUTH0_CALLBACK_URL=http://localhost:3000/callback
 - OpenAI models were used for general purpose coding assistance.
 - OpenAI and Google Gemini models were used to implement the core functionality of the webapp, namely extracting information from and generating images.
 - Example code from Auth0 was used for creating the React components used for page-loading animations and route guarding.
-  - Sourcehttps://developer.auth0.com/resources/guides/spa/react/basic-authentication?_gl=1*5f2v0p*_gcl_au*MTIzMTk0MjMwMS4xNzQzODg0MTQz*_ga*NjQ3MzQ3Mzc5LjE3NDM4ODQxNDQ.*_ga_QKMSDV5369*MTc0MzkwODY0OC40LjEuMTc0MzkwODc3Ni4xLjAuMA..
+  - Source: https://developer.auth0.com/resources/guides/spa/react/basic-authentication?_gl=1*5f2v0p*_gcl_au*MTIzMTk0MjMwMS4xNzQzODg0MTQz*_ga*NjQ3MzQ3Mzc5LjE3NDM4ODQxNDQ.*_ga_QKMSDV5369*MTc0MzkwODY0OC40LjEuMTc0MzkwODc3Ni4xLjAuMA..
 - Material UI was used for styling front-end React components.
